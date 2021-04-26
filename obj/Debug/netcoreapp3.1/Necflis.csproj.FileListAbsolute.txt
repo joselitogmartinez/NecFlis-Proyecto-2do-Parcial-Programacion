@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.AssemblyInfo.cs
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Necflis\bin\Debug\netcoreapp3.1\Necflis.exe
+C:\Users\PC\Desktop\Necflis\bin\Debug\netcoreapp3.1\Necflis.deps.json
+C:\Users\PC\Desktop\Necflis\bin\Debug\netcoreapp3.1\Necflis.runtimeconfig.json
+C:\Users\PC\Desktop\Necflis\bin\Debug\netcoreapp3.1\Necflis.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Necflis\bin\Debug\netcoreapp3.1\Necflis.dll
+C:\Users\PC\Desktop\Necflis\bin\Debug\netcoreapp3.1\Necflis.pdb
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.dll
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.pdb
+C:\Users\PC\Desktop\Necflis\obj\Debug\netcoreapp3.1\Necflis.genruntimeconfig.cache
